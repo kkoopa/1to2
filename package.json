@@ -1,0 +1,20 @@
+{
+  "name": "Nan1to2",
+  "main": "main.js",
+  "version": "0.1.0",
+  "description": "NAN Migration Tool",
+  "homepage": "https://github.com/kkoopa/1to2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kkoopa/1to2.git"
+  },
+  "contributors": [
+    "Benjamin Byholm <bbyholm@abo.fi> (https://github.com/kkoopa/)",
+    "Mathias Küsel (https://github.com/mathiask88)"
+  ],
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "js-yaml": "^3.3.1"
+  }
+}
